@@ -1,0 +1,29 @@
+.advice {
+  font-size: 2.8rem;
+  line-height: 3.8rem;
+  text-align: center;
+  letter-spacing: -0.3px;
+
+  padding: 2.4rem 4.8rem 12.8rem 4.8rem;
+
+  position: relative;
+}
+
+.line {
+  position: absolute;
+  top: 24.4rem;
+}
+
+@media (max-width: 42em) {
+  .advice {
+    font-size: 2.4rem;
+    line-height: 3.3rem;
+    letter-spacing: -0.257143px;
+
+    padding: 2.4rem 2.4rem 10.4rem 2.4rem;
+  }
+
+  .line {
+    top: 23.5rem;
+  }
+}

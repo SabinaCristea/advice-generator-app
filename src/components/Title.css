@@ -1,0 +1,19 @@
+.title {
+  font-size: 1.3rem;
+  line-height: 1.8rem;
+  letter-spacing: 4.08571px;
+
+  color: #53ffaa;
+
+  padding-top: 4.8rem;
+}
+
+@media (max-width: 42em) {
+  .title {
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    letter-spacing: 3.45714px;
+
+    padding-top: 4rem;
+  }
+}

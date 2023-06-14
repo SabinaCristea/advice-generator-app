@@ -1,0 +1,13 @@
+button {
+  width: 6.4rem;
+  height: 6.4rem;
+
+  padding: 2rem;
+  border-radius: 100rem;
+
+  border: none;
+  background-color: #53ffaa;
+
+  position: absolute;
+  bottom: -3.2rem;
+}
